@@ -5,7 +5,11 @@
         <link>https://www.doctor-mohandes.com/</link>
         <description><![CDATA[پادکست پایگاه سلامت دکتر مهندس، جایی برای آگاهی و سلامت. در این کانال به موضوعات متنوعی در حوزه سلامت، پیشگیری، تغذیه، روان‌شناسی و سبک زندگی سالم می‌پردازیم. با ما همراه باشید تا با اطلاعات علمی و کاربردی، به سمت زندگی سالم‌تر گام برداریم.]]></description>
         <language>fa</language>
-        <managingEditor>info@doctor-mohandes.com (پایگاه سلامت دکتر مهندس )</managingEditor>
+        <itunes:owner>
+            <itunes:name>پایگاه سلامت دکتر مهندس</itunes:name>
+            <itunes:email>info@doctor-mohandes.com</itunes:email>
+        </itunes:owner>
+
 
 
         <item>
