@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back
 خب اگر یک لینکی رو خواستیم استاندارد به فایل را دسترسی داشته باشیم فقط باید از لینک زیر استفاده کنیم و قسمت آدرس خود فایل رو به آخر این لینک اضافه کنیم: 
 https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/
 
+همیشه در XML، کاراکتر & را با &amp; جایگزین کن تا فیدت بدون مشکل پردازش شود.
