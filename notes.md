@@ -5,3 +5,5 @@ https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back
 https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/
 
 همیشه در XML، کاراکتر & را با اون چیزی که درستش هست عوض کن اینجا نشون داده نمیشه البته، جایگزین کن تا فیدت بدون مشکل پردازش شود.
+
+https://podcastaddict.com/podcast/5729271
