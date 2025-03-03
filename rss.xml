@@ -6,22 +6,23 @@
         <link>https://www.doctor-mohandes.com/</link>
         <description><![CDATA[پادکست پایگاه سلامت دکتر مهندس، جایی برای آگاهی و سلامت. در این کانال به موضوعات متنوعی در حوزه سلامت، پیشگیری، تغذیه، روان‌شناسی و سبک زندگی سالم می‌پردازیم. با ما همراه باشید تا با اطلاعات علمی و کاربردی، به سمت زندگی سالم‌تر گام برداریم.]]></description>
         <language>fa</language>
-        <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
+        <itunes:category text="Health"/>
+        <itunes:explicit>clean</itunes:explicit>
         <itunes:owner>
             <itunes:name>پایگاه سلامت دکتر مهندس</itunes:name>
-            <itunes:email>info@doctor-mohandes.com</itunes:email>
-            
+            <itunes:email>info@doctor-mohandes.com</itunes:email> 
         </itunes:owner>
+        <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
+        
 
 
 
         <item>
             <title>آموزش از پوشک گرفتن کودک</title>
-            <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
-            <link>https://drive.google.com/uc?export=download&amp;id=1RyO_9Y_yVJ6FnFvBJCmygL4lETvL6T8c</link>
-            <guid>https://drive.google.com/uc?export=download&amp;id=1RyO_9Y_yVJ6FnFvBJCmygL4lETvL6T8c</guid>
+            <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14031212-%20episode1.mp3</link>
+            <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14031212-%20episode1.mp3</guid>
             <pubDate>Sun, 03 Mar 2025 10:30:00 GMT</pubDate>
-            <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RyO_9Y_yVJ6FnFvBJCmygL4lETvL6T8c" length="3565158" type="audio/mpeg"/>
+            <enclosure url="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14031212-%20episode1.mp3" length="3565158" type="audio/mpeg"/>
             <description><![CDATA[در این پادکست یاد می‌گیرید که چگونه در اولین گام، دستشویی رفتن را به کودک آموزش دهید. از تشخیص زمان مناسب گرفته تا ایجاد محیطی حمایتی و استفاده از روش‌های کاربردی، ما در کنار شما هستیم تا این مرحله مهم را به تجربه‌ای مثبت و موفق تبدیل کنید.]]></description>
         </item>
 
