@@ -1,3 +1,6 @@
 اینجا نکات لازم برای کار کردن در این محیط و لینک‌های مهم جهت دسترسی سریع قرار خواهند گرفت:
 https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg
 لینک بالا لینک دسترسی به لوگوی دکتر مهندس هست. 
+خب اگر یک لینکی رو خواستیم استاندارد به فایل را دسترسی داشته باشیم فقط باید از لینک زیر استفاده کنیم و قسمت آدرس خود فایل رو به آخر این لینک اضافه کنیم: 
+https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/
+
