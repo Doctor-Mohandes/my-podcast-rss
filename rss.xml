@@ -15,6 +15,17 @@
         </itunes:owner>
         <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
 
+        <item>
+            <title> حساسیت فصلی </title>
+            <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14031225-episode9allergie.mp3</link>
+            <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14031225-episode9allergie.mp3</guid>
+            <pubDate>Sat, 25 Mar 2025 07:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14031225-episode9allergie.mp3" length="2617753" type="audio/mpeg"/>
+            <itunes:duration>02:42</itunes:duration>
+            <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
+            <description><![CDATA[در این اپیزود می‌خواهیم درباره چند راهکار ساده و کاربردی برای کاهش علائم حساسیت فصلی صحبت کنیم. از روش‌های خانگی گرفته تا تغییرات کوچک در سبک زندگی که می‌توانند عطسه، خارش و آبریزش بینی را کمتر کنند. اگر هر سال با شروع فصل حساسیت‌ها اذیت می‌شوید، این قسمت را از دست ندهید ]]></description>
+        </item>
+
         
         <item>
             <title> رفع افتادگی شکم بعد از زایمان </title>
