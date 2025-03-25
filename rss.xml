@@ -16,10 +16,21 @@
         <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
 
         <item>
+            <title> لاغری بدون انجام ورزش </title>
+            <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14031225-episode9allergie.mp3</link>
+            <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14031225-episode9allergie.mp3</guid>
+            <pubDate>Tue, 25 Mar 2025 07:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040105-episode1laghari.mp3" length="2626726" type="audio/mpeg"/>
+            <itunes:duration>02:43</itunes:duration>
+            <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
+            <description><![CDATA[ کاهش وزن همیشه به ورزش‌های سخت و رژیم‌های دشوار نیاز ندارد! در این اپیزود درباره راهکارهای ساده و مؤثری صحبت می‌کنیم که بدون نیاز به تمرین‌های سنگین، به کاهش وزن کمک می‌کنند. از تغییرات کوچک در تغذیه گرفته تا عادت‌های روزمره‌ای که می‌توانند تأثیر بزرگی داشته باشند. اگر به دنبال راهی آسان‌تر برای رسیدن به وزن دلخواهتان هستید، این قسمت را از دست ندهید ]]></description>
+        </item>
+        
+        <item>
             <title> حساسیت فصلی </title>
             <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14031225-episode9allergie.mp3</link>
             <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14031225-episode9allergie.mp3</guid>
-            <pubDate>Sat, 25 Mar 2025 07:30:00 GMT</pubDate>
+            <pubDate>Sat, 15 Mar 2025 07:30:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14031225-episode9allergie.mp3" length="2617753" type="audio/mpeg"/>
             <itunes:duration>02:42</itunes:duration>
             <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
