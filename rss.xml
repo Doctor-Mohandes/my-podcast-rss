@@ -16,9 +16,21 @@
         <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
 
         <item>
+            <title> محافظت از دندان </title>
+            <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040125-episode12teeth.mp3</link>
+            <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040125-episode12teeth.mp3</guid>
+            <pubDate>Mon, 14 Apr 2025 07:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040125-episode12teeth.mp3.mp3" length="2934000" type="audio/mpeg"/>
+            <itunes:duration>03:02</itunes:duration>
+            <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
+            <description><![CDATA[در این قسمت به ۵ عادت رایجی می‌پردازیم که به مرور زمان باعث آسیب و خراب شدن دندان‌ها می‌شن، بدون این‌که خیلی متوجهش باشیم. همچنین چند توصیه ساده و کاربردی برای حفظ سلامت دندان‌ها ارائه می‌دیم که رعایتشون می‌تونه از مشکلات جدی دهان و دندان پیشگیری کنه. اگر سلامت لبخندتون براتون مهمه، این اپیزود رو از دست ندید ]]></description>
+        </item>
+
+        
+        <item>
             <title> لاغری بدون انجام ورزش </title>
-            <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14031225-episode9allergie.mp3</link>
-            <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14031225-episode9allergie.mp3</guid>
+            <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040105-episode1laghari.mp3</link>
+            <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040105-episode1laghari.mp3</guid>
             <pubDate>Tue, 25 Mar 2025 07:30:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040105-episode1laghari.mp3" length="2626726" type="audio/mpeg"/>
             <itunes:duration>02:43</itunes:duration>
