@@ -16,6 +16,17 @@
         <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
 
         <item>
+            <title> کاهش درد کمر </title>
+            <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040201-episode13miz.mp3</link>
+            <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040201-episode13miz.mp3</guid>
+            <pubDate>Mon, 21 Apr 2025 07:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040201-episode13miz.mp3" length="2934000" type="audio/mpeg"/>
+            <itunes:duration>02:07</itunes:duration>
+            <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
+            <description><![CDATA[در این قسمت چند راهکار ساده و کاربردی رو معرفی می‌کنیم که به کاهش کمردرد ناشی از پشت میز نشستن کمک می‌کنن. اگر ساعت‌های طولانی در حالت نشسته کار می‌کنید و از درد کمر خسته شدید، این اپیزود می‌تونه راه‌حل‌های مفیدی براتون داشته باشه.]]></description>
+        </item>
+        
+        <item>
             <title> محافظت از دندان </title>
             <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040125-episode12teeth.mp3</link>
             <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040125-episode12teeth.mp3</guid>
