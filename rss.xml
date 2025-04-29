@@ -15,6 +15,18 @@
         </itunes:owner>
         <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
 
+       <item>
+            <title> تغذیه سالم برای زندگی شلوغ </title>
+            <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040209-episode14diet.mp3</link>
+            <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040209-episode14diet.mp3</guid>
+            <pubDate>Tue, 29 Apr 2025 07:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040209-episode14diet.mp3" length="2937921" type="audio/mpeg"/>
+            <itunes:duration>03:02</itunes:duration>
+            <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
+            <description><![CDATA[در این قسمت راهکارهایی ساده، ارزان و قابل اجرا برای رعایت یک رژیم غذایی سالم رو با شما به اشتراک می‌ذاریم. اگر می‌خواید بدون صرف هزینه زیاد، تغذیه سالم‌تری داشته باشید، این اپیزود رو از دست ندید.]]></description>
+        </item>
+
+        
         <item>
             <title> کاهش کمردرد ناشی از پشت‌ میز نشستن زیاد </title>
             <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040201-episode13miz.mp3</link>
