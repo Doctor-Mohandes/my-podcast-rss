@@ -16,6 +16,18 @@
         <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
 
        <item>
+            <title> چرا فشارسنج‌ها اعداد متفاوتی نشان می‌دهند؟ </title>
+            <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040220-episode16fesharsanj.mp3</link>
+            <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040220-episode16fesharsanj.mp3</guid>
+            <pubDate>Sat, 10 May 2025 07:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040220-episode16fesharsanj.mp3" length="1552957" type="audio/mpeg"/>
+            <itunes:duration>01:36</itunes:duration>
+            <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/covers/14040220-episode16fesharsanj.jpg" />
+            <description><![CDATA[.در این قسمت می‌خوایم اطلاعاتی کاربردی درباره نحوه صحیح استفاده از دستگاه‌های فشارسنج ارائه بدیم. اگر می‌خواید اندازه‌گیری فشار خونتون دقیق‌تر و قابل اعتمادتر باشه، حتماً این اپیزود رو گوش بدید]]></description>
+        </item>
+
+        
+       <item>
             <title> با یک حرکت کمردردت رو کاهش بده </title>
             <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040211-episode15backpain.mp3</link>
             <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040211-episode15backpain.mp3</guid>
