@@ -18,6 +18,21 @@
         </itunes:owner>
         <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
 
+   <item>
+            <title> ترک سیگار، واقعی، شدنی </title>
+            <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040312-episode18tarkesigar.mp3</link>
+            <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040312-episode18tarkesigar.mp3</guid>
+            <pubDate>Mon, 02 Jun 2025 07:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040312-episode18tarkesigar.mp3" length="2907005" type="audio/mpeg"/>
+            <itunes:duration>03:01</itunes:duration>
+            <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/covers/14040312-episode18tarkesigar.jpg" />
+            <description><![CDATA[در این قسمت می‌خوایم چند راهکار ساده و کاربردی برای ترک سیگار رو با شما در میون بذاریم.
+                اگه تا الان چند بار تلاش کردی ولی موفق نشدی، یا تازه تصمیم گرفتی سیگار رو کنار بذاری، این اپیزود می‌تونه برات شروع خوبی باشه.
+                همراه ما باش تا این مسیر رو راحت‌تر طی کنی.]]></description>
+        </item>
+        
+
+        
        <item>
             <title> شکستن قولنج، لذت یا ضرر؟ </title>
             <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040301-episode17gholenj.mp3</link>
