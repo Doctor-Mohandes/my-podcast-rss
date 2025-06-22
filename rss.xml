@@ -18,7 +18,20 @@
         </itunes:owner>
         <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
 
-   <item>
+    <item>
+            <title> خار پاشنه </title>
+            <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040401-episode19kharpashne.mp3</link>
+            <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040401-episode19kharpashne.mp3</guid>
+            <pubDate>Sun, 22 Jun 2025 07:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040401-episode19kharpashne.mp3" length="5406720" type="audio/mpeg"/>
+            <itunes:duration>03:44</itunes:duration>
+            <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/covers/14040401-episode19kharpashne.jpg" />
+            <description><![CDATA[در این قسمت می‌خوایم درباره یک مشکل بسیار آزاردهنده یعنی خار پاشنه صحبت کنیم. 
+                به علل ایجاد این درد، روش‌های کاهش ناراحتی و راهکارهای درمانی ساده و مؤثر می‌پردازیم.
+                اگر شما هم با درد پاشنه پا مواجه هستید، این اپیزود می‌تونه اطلاعات مفیدی براتون داشته باشه.]]></description>
+     </item>
+        
+     <item>
             <title> ترک سیگار، واقعی، شدنی </title>
             <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040312-episode18tarkesigar.mp3</link>
             <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040312-episode18tarkesigar.mp3</guid>
