@@ -18,6 +18,19 @@
         </itunes:owner>
         <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/sib%20back.jpg" />
 
+     <item>
+            <title>راهکارهای کاربردی برای رهایی از بی‌خوابی</title>
+            <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040421-episode20sleep.mp3</link>
+            <guid>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040421-episode20sleep.mp3</guid>
+            <pubDate>Sat, 12 Jul 2025 07:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040421-episode20sleep.mp3" length="3686060" type="audio/mpeg"/>
+            <itunes:duration>02:33</itunes:duration>
+            <itunes:image href="https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/covers/14040421-episode20sleep.jpg" />
+            <description><![CDATA[.در این قسمت می‌خوایم درباره چند راهکار ساده و عملی صحبت کنیم که به داشتن یک خواب شبانه بهتر کمک می‌کنن 
+                .اگه با بی‌خوابی یا خواب بی‌کیفیت دست‌و‌پنجه نرم می‌کنید، این اپیزود می‌تونه براتون مفید و آرامش‌بخش باشه]]></description>
+     </item>
+
+        
     <item>
             <title> خار پاشنه </title>
             <link>https://raw.githubusercontent.com/Doctor-Mohandes/my-podcast-rss/main/episodes/14040401-episode19kharpashne.mp3</link>
